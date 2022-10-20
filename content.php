@@ -34,7 +34,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="Model MB/bg MB.jpg">
+                    <div class="hero__item set-bg" data-setbg="ATNtoy/background.jpg">
                         <div class="hero__text">
                             <span>NEW ON</span>
                             <h2>ATN <br />TOY </h2> 
@@ -54,24 +54,24 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="Model MB/Bandai-Gundam-Wing-Gundam-Zero-Ew-Thu-c-a.jpg_Q90.jpg_.jpg">
-                            <h5><a href="#"></a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/acee.jpg">
+                            <h5><a href="#">Portgas.D. Ace</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="Model MB/Bandai Hobby PG RX-0 Unicorn Gundam Model Kit.jpg">
-                            <h5><a href="#"></a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/luffy.jpg">
+                            <h5><a href="#">Mokey. D. Luffy</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="Model MB/Bandai-MG-1100-WING-GUNDAM-ZERO-EW-Ver-4.jpg">
-                            <h5><a href="#"></a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/Levi.jpg">
+                            <h5><a href="#">Levi Akerman</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="Model MB/MB Dante Masamune.jpg">
-                            <h5><a href="#"></a></h5>
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
+                            <h5><a href="#">Mikey Sanjiro</a></h5>
                         </div>
                     </div>
                 </div>
