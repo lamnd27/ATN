@@ -30,7 +30,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+84 90 785 3006</h5>
+                                <h5>+84358 56 84 00</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                     <div class="contact__widget">
                         <span class="icon_phone"></span>
                         <h4>Phone   </h4>
-                        <p>+84-90-785-3006</p>
+                        <p>+84358 56 84 00</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
@@ -88,7 +88,7 @@
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>sieungcc19186@fpt.edu.vn</p>
+                        <p>lamndgcc200145@fpt.edu.vn</p>
                     </div>
                 </div>
             </div>

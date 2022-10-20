@@ -210,7 +210,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="?page=content"><img src="ATNtoy/Logo.png" alt=""></a>
+                        <a href="?page=content"><img src="Model MB/DeHu.png" alt=""></a>
                     </div>
                 </div>
                 
@@ -403,7 +403,7 @@ include_once("connection.php");
                         </div>
                         <ul>
                             <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
-                            <li>Phone: +84 90 785 3006</li>
+                            <li>Phone: +84358 56 84 00</li>
                             <li>Email: lamndgcc200145@fpt.edu.vn</li>
                         </ul>
                     </div>
