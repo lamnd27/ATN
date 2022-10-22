@@ -41,7 +41,7 @@
         </div>
     </section>
     <!-- Hero Section End -->
-<section class="breadcrumb-section set-bg" data-setbg="Model MB/bg MB.jpg">
+<section class="breadcrumb-section set-bg" data-setbg="Model MB/bgMB.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

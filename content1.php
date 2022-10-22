@@ -34,7 +34,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="Model MB/bg MB.jpg" width=470 height=250>
+                    <div class="hero__item set-bg" data-setbg="Model MB/bgMB.jpg" width=470 height=250>
                         <div class="hero__text">
                             <span>NEW ON</span>
                             <h2>ATN <br />TOY</h2> 
