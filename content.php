@@ -55,23 +55,23 @@
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/acee.jpg">
-                            <h5><a href="#">Portgas.D. Ace</a></h5>
+                            <h5><a href="#">Takenda Shingen</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/luffy.jpg">
-                            <h5><a href="#">Mokey. D. Luffy</a></h5>
+                            <h5><a href="#">Dante Masamune</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/Levi.jpg">
-                            <h5><a href="#">Levi Akerman</a></h5>
+                            <h5><a href="#">Astray Red Dragon</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="ATNtoy/Mikey.jpg">
-                            <h5><a href="#">Mikey Sanjiro</a></h5>
+                            <h5><a href="#">Astraea 8816</a></h5>
                         </div>
                     </div>
                 </div>
