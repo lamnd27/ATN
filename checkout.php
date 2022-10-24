@@ -12,10 +12,8 @@
                             <span>All departments</span>
                         </div>
                         <ul>
-                            <li><a href="#">Vinyl</a></li>
-                            <li><a href="#">Audio</a></li>
-                            <li><a href="#">Cassette</a></li>
-                            
+                            <li><a href="#">Master Grade</a></li>
+                            <li><a href="#">Metal Build</a></li>                           
                         </ul>
                     </div>
                 </div>
