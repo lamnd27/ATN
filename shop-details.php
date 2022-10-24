@@ -135,8 +135,7 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                                 <div class="share">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    
                                 </div>
                             </li>
                         </ul>
