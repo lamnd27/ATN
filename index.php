@@ -446,7 +446,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer__copyright">
-                        <div class="footer__copyright__text"> Sieu Nguyen</div>
+                        <div class="footer__copyright__text">Copyright @ 2022 ATN</div>
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
                 </div>
