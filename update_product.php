@@ -169,7 +169,7 @@ echo "<SELECT name ='CategoryList' class='from-control'>
 							<div class="col-sm-10">
 								<?php bind_Branch_List($conn, $branch); ?>
 							      
-							</div>
+							</div></br>
                 </div>  
                 <div class="form-group">   
                     <label for="lblShort" class="col-sm-5 control-label">Short description(*):  </label>
