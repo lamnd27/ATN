@@ -55,7 +55,7 @@
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
                     <div class="categories__item set-bg" data-setbg="ATNtoy/MB Takeda Shingen.jpg">
-                            <h5><a href="#">Takeda Shigen</a></h5>
+                            <h5><a href="#">Takeda Shingen</a></h5>
                         </div>
                         <div class="categories__item set-bg" data-setbg="ATNtoy/MB Dante Masamune.jpg">
                             <h5><a href="#">Dante Masamune</a></h5>

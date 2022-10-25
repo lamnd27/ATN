@@ -50,7 +50,7 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+84 09 078 53006</h5>
+                                <h5>+84358 56 84 00</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
@@ -91,14 +91,14 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                                 src="ATNtoy/<?php echo $row["pro_image"]; ?>" alt="">
                         </div>
                         <div class="product__details__pic__slider owl-carousel">
-                            <img data-imgbigurl="ATNtoy/kris.jpg"
-                                src="ATNtiy/Luffy.jpg" alt="">
-                            <img data-imgbigurl="ATNtoy/Mikey.jpg"
-                                src="ATNtoy/pika.jpg" alt="">
-                            <img data-imgbigurl="ATNtoy/Levi.jpg"
-                                src="ATNtoy/Goku.jpg" alt="">
-                            <img data-imgbigurl="ATNtoy/zr.jpg"
-                                src="ATNtoy/Armin.jpg" alt="">
+                            <img data-imgbigurl="ATNtoy/MB Sanada Yukimura.jpg"
+                                src="" alt="">
+                            <img data-imgbigurl="ATNtoy/MB Astray Red Dragon.jpg"
+                                src="" alt="">
+                            <img data-imgbigurl="ATNtoy/MG Astraea Type F.jpg"
+                                src="" alt="">
+                            <img data-imgbigurl="ATNtoy/MB Dante Masamune.jpg"
+                                src="" alt="">
                         </div>
                     </div>
                 </div>
