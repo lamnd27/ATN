@@ -199,7 +199,7 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/ATNlogo.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/MB Astray Red Dragon.jpg">
                             <ul class="product__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -207,14 +207,14 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                             </ul>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#"></a></h6>
-                            <h5>$30.00</h5>
+                            <h6><a href="#">Astray Red Dragon</a></h6>
+                            <h5>$150.00</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/ace.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/MB Dante Masamune.jpg">
                             <ul class="product__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -222,14 +222,14 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                             </ul>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Porgas.D . Ace</a></h6>
-                            <h5>$30.00</h5>
+                            <h6><a href="#">Dante Masamune</a></h6>
+                            <h5>$150.00</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/Mikey.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/MB Sanada Yukimura.jpg">
                             <ul class="product__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -237,14 +237,14 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                             </ul>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Mikey Sanjjiro</a></h6>
-                            <h5>$30.00</h5>
+                            <h6><a href="#">Sanada Yukimura</a></h6>
+                            <h5>$150.00</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <div class="product__item">
-                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/Luffy.jpg">
+                        <div class="product__item__pic set-bg" data-setbg="ATNtoy/MB Takeda Shingen.jpg">
                             <ul class="product__item__pic__hover">
                                 <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                 <li><a href="#"><i class="fa fa-retweet"></i></a></li>
@@ -252,8 +252,8 @@ $row=pg_fetch_array($result, NULL, PGSQL_ASSOC);
                             </ul>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Monkey. D. Luffy</a></h6>
-                            <h5>$30.00</h5>
+                            <h6><a href="#">Takeda Shingen</a></h6>
+                            <h5>$150.00</h5>
                         </div>
                     </div>
                 </div>
