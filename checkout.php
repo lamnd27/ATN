@@ -12,9 +12,7 @@
                             <span>All departments</span>
                         </div>
                         <ul>
-                            <li><a href="#">Vinyl</a></li>
-                            <li><a href="#">Audio</a></li>
-                            <li><a href="#">Cassette</a></li>
+                        <?php Department($conn ); ?>
                             
                         </ul>
                     </div>

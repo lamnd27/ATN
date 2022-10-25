@@ -143,7 +143,7 @@ include_once("connection.php");
                         <div class="header__top__left">
                             <ul>
                                 <li><i class="fa fa-envelope"></i> lamndgcc200145@fpt.edu.vn</li>
-                                <li>A shopping website for toy </li>
+                                <li>Welcome to the world of figure </li>
                             </ul>
                         </div>
                     </div>
