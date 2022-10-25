@@ -12,7 +12,7 @@
                             <span>All departments</span>
                         </div>
                         <ul>
-                        <?php Department($conn ); ?>
+                            <?php Department($conn ); ?>
                             
                         </ul>
                     </div>
