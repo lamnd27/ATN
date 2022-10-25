@@ -171,7 +171,7 @@
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/ace.jpg" alt="">
+                                                <img src="ATNtoy/MB Takeda Shingen.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -180,7 +180,7 @@
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/luffy.jpg" alt="">
+                                                <img src="ATNtoy/MB Dante Masamune.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -189,7 +189,7 @@
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/Levi.jpg" alt="">
+                                                <img src="ATNtoy/MB Astray Red Dragon.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
@@ -200,31 +200,14 @@
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/Mikey.jpg" alt="">
+                                                <img src="ATNtoy/MG Astraea Type F.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
                                                 <h6></h6>
                                                 <span></span>
                                             </div>
                                         </a>
-                                        <a href="#" class="latest-product__item">
-                                            <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/pika.jpg" alt="">
-                                            </div>
-                                            <div class="latest-product__item__text">
-                                                <h6></h6>
-                                                <span></span>
-                                            </div>
-                                        </a>
-                                        <a href="#" class="latest-product__item">
-                                            <div class="latest-product__item__pic">
-                                                <img src="ATNtoy/zr.jpg" alt="">
-                                            </div>
-                                            <div class="latest-product__item__text">
-                                                <h6></h6>
-                                                <span></span>
-                                            </div>
-                                        </a>
+                                        
                                     </div>
                                 </div>
                             </div>

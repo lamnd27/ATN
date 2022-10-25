@@ -62,11 +62,11 @@
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="ATNtoy/MB Astray Red Dragon.jpgi.jpg">
+                        <div class="categories__item set-bg" data-setbg="ATNtoy/MB Astray Red Dragon.jpg">
                             <h5><a href="#">Astray Red Dragon</a></h5>
                         </div>
                     </div>
-                    <div class="categories__item set-bg" data-setbg="ATNtoy/MG Astraea Type F.jpg.jpg">
+                    <div class="categories__item set-bg" data-setbg="ATNtoy/MG Astraea Type F.jpg">
                             <h5><a href="#">Astraea Type F</a></h5>
                         </div>
                     </div>
