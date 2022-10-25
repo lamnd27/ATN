@@ -80,7 +80,7 @@
 			}
 			else
 			{
-				pg_query($conn, "UPDATE branch set branch_name = '$name' where branch_id = '$id'");
+				pg_query($conn, "UPDATE branch set branch_name = '$name', address = '$address' where branch_id = '$id'");
 				echo '<meta http-equiv="refresh" content="0;URL =?page=branch"/>';
 			}
 		}

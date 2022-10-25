@@ -48,7 +48,7 @@
 				$result = pg_query($conn, $sql);
 				if(pg_num_rows($result)=="0")
 				{
-					pg_query($conn, "insert into branch (branch_id, branch_name) values ('$id', '$name')");
+					pg_query($conn, "insert into branch (branch_id, branch_name, address) values ('$id', '$name', '$address')");
 					echo '<meta http-equiv="refresh" content="0;URL =?page=branch"';
 				}
 				else
