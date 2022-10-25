@@ -124,6 +124,7 @@ echo "<SELECT name ='CategoryList' class='from-control'>
 		$pic = $row['pro_image'];
 		$category = $row['cat_id'];
 		$branch = $row['branch_name'];
+		$oldprice=$_POST['txtOldPrice'];
 ?>
 <div class="container">
 	<h2>Updating Product</h2>
@@ -155,6 +156,12 @@ echo "<SELECT name ='CategoryList' class='from-control'>
                     <label for="lblPrice" class="col-sm-12 control-label">Price(*):  </label>
 							<div class="col-sm-10">
 							      <input type="text" name="txtPrice" id="txtPrice" class="form-control" placeholder="Price" value="<?php echo $price?>"/>
+							</div>
+                 </div>
+				 <div class="form-group">  
+                    <label for="lblGia" class="col-sm-2 control-label">Old Price(*):  </label>
+							<div class="col-sm-10">
+							      <input type="text" name="txtOldPrice" id="txtOldPrice" class="form-control" placeholder="OldPrice" value="<?php if(isset($oldprice)) echo $oldprice?>"/>
 							</div>
                  </div>   
 				 <div class="form-group">   
@@ -214,6 +221,7 @@ echo "<SELECT name ='CategoryList' class='from-control'>
 		$pic = $_FILES['txtImage'];
 		$cat = $_POST['CategoryList'];
 		$branch = $_POST['BranchList'];
+		$oldprice=$_POST['txtOldPrice'];
 		$err = "";
 
 		
@@ -234,7 +242,7 @@ echo "<SELECT name ='CategoryList' class='from-control'>
 							copy($pic['tmp_name'], "ATNtoy/".$pic['name']);
 							$filepic = $pic['name'];
 							
-							$sqlString = "UPDATE product set product_name ='$proname', price = '$price', smalldesc ='$short', detaildesc ='$detail', pro_qty ='$qty', pro_image ='$filepic', cat_id ='$cat', branch_name = '$branch', 
+							$sqlString = "UPDATE product set product_name ='$proname', price = '$price', oldprice ='$oldprice', smalldesc ='$short', detaildesc ='$detail', pro_qty ='$qty', pro_image ='$filepic', cat_id ='$cat', branch_name = '$branch', 
 							prodate ='".date('Y-m-d H:i:s')."' where product_id ='$id'";
 							pg_query($conn,$sqlString);
 							echo '<meta http-equiv="refresh" content="0;URL=?page=pm"';	
@@ -253,7 +261,7 @@ echo "<SELECT name ='CategoryList' class='from-control'>
 			else
 			{
 				
-					$sqlString = "UPDATE product set product_name ='$proname', price = '$price', smalldesc ='$short',  detaildesc ='$detail', pro_qty='$qty', cat_id='$cat',branch_id= '$branch', 
+					$sqlString = "UPDATE product set product_name ='$proname', price = '$price', oldprice ='$oldprice', smalldesc ='$short',  detaildesc ='$detail', pro_qty='$qty', cat_id='$cat',branch_id= '$branch', 
 					prodate='".date('Y-m-d H:i:s')."' where product_id ='$id'";
 					pg_query($conn,$sqlString);
 					echo '<meta http-equiv="refresh" content="0;URL =?page=pm"';	
