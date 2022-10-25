@@ -55,6 +55,7 @@
 			<tr>
                 <td class="cotCheckBox"><?php echo $No; ?></td>
                 <td><?php echo $row['branch_name']?></td>
+                <td><?php echo $row['address']?></td>
                 <td style='text-align:center'><a href="?page=upbr&&id=<?php echo $row['branch_id'];?>"><i class="fa fa-edit"></i></td>
                 <td style='text-align:center'><a href="?page=branch&&function=del&&id=<?php echo $row['branch_id']; ?>"
                  onclick="return ConfirmDelete()"><i class="fa fa-close"></i></td>
