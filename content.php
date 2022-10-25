@@ -54,23 +54,23 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Takeda Shingen.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Takeda Shingen.jpg">
                             <h5><a href="#">Takenda Shingen</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Dante Masamune.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Dante Masamune.jpg">
                             <h5><a href="#">Dante Masamune</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Astray Red Dragon.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Astray Red Dragon.jpg">
                             <h5><a href="#">Astray Red Dragon</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MG Astraea Type F.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MG Astraea Type F.jpg">
                             <h5><a href="#">Astraea Type F</a></h5>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
                    
                                 <div class="col-lg-3 col-md-4 col-sm-6 mix ">
                                     <div class="featured__item">
-                                        <div class="featured__item__pic set-bg" data-setbg="./ATNtoy/<?php echo $row['pro_image'] ?>">
+                                        <div class="featured__item__pic set-bg" data-setbg="ATNtoy/<?php echo $row['pro_image'] ?>">
                                             <ul class="featured__item__pic__hover">
                                             
                                                 <li><a href="#"><span class="fa fa-heart"></span></a></li>

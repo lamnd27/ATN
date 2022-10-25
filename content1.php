@@ -54,19 +54,19 @@
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
-                    <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Takeda Shingen.jpg">
+                    <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Takeda Shingen.jpg">
                             <h5><a href="#">Takeda Shingen</a></h5>
                         </div>
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Dante Masamune.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Dante Masamune.jpg">
                             <h5><a href="#">Dante Masamune</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="./ATNtoy/MB Astray Red Dragon.jpg">
+                        <div class="categories__item set-bg" data-setbg="../ATNtoy/MB Astray Red Dragon.jpg">
                             <h5><a href="#">Astray Red Dragon</a></h5>
                         </div>
                     </div>
-                    <div class="categories__item set-bg" data-setbg="./ATNtoy/MG Astraea Type F.jpg">
+                    <div class="categories__item set-bg" data-setbg="../ATNtoy/MG Astraea Type F.jpg">
                             <h5><a href="#">Astraea Type F</a></h5>
                         </div>
                     </div>
