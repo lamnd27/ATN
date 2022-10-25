@@ -36,8 +36,8 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mix ">
                 
                     <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="ATNtoy/<?php echo $row['pro_image'] ?>" >
-                        <img src="ATNtoy/<?php echo $row['pro_image'] ?>" alt="">
+                        <div class="featured__item__pic set-bg">
+                        <img src="ATNtoy/<?php echo $row['pro_image'] ?>" alt="" width="262.5" height="270">
                             <ul class="featured__item__pic__hover">
                     
                                 <li><a href="#"><span class="fa fa-heart"></span></a></li>
