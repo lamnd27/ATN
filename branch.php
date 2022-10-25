@@ -28,6 +28,7 @@
                 <tr>
                     <th><strong>No.</strong></th>
                     <th><strong>Branch Name</strong></th>
+                    <th><strong>Address</strong></th>
                     <th><strong>Edit</strong></th>
                     <th><strong>Delete</strong></th>
                 </tr>
