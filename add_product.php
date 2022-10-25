@@ -99,6 +99,7 @@
         $pic=$_FILES['txtImage'];
         $category=$_POST['CategoryList'];
 		$branchlist=$_POST['BranchList'];
+		$oldprice=$_POST['txtOldPrice'];
 		
 		$err="";
 		
@@ -125,8 +126,8 @@
 						copy($pic['tmp_name'],"ATNtoy/".$pic['name']);
 						$filePic =$pic['name'];
 						$sqlstring="INSERT INTO product(
-							product_id, product_name, price, smalldesc, detaildesc, prodate, pro_qty, pro_image, cat_id, branch_id)
-							VALUES('$id','$proname', $price,'$short','$detail','".date('Y-m-d H:i:s')."',$qty,'$filePic','$category', '$branchlist')";
+							product_id, product_name, price, oldprice, smalldesc, detaildesc, prodate, pro_qty, pro_image, cat_id, branch_id)
+							VALUES('$id','$proname', $price, $oldprice,'$short','$detail','".date('Y-m-d H:i:s')."',$qty,'$filePic','$category', '$branchlist')";
 							
 						pg_query($conn, $sqlstring);
 						echo'<li>You have add successfully</li>';
@@ -171,7 +172,12 @@
 							      <input type="text" name="txtPrice" id="txtPrice" class="form-control" placeholder="Price" value="<?php if(isset($price)) echo $price?>"/>
 							</div>
                  </div>   
-
+				 <div class="form-group">  
+                    <label for="lblGia" class="col-sm-2 control-label">Old Price(*):  </label>
+							<div class="col-sm-10">
+							      <input type="text" name="txtOldPrice" id="txtOldPrice" class="form-control" placeholder="OldPrice" value="<?php if(isset($oldprice)) echo $oldprice?>"/>
+							</div>
+                 </div>
                  <div class="form-group">   
                     <label for="" class="col-sm-2 control-label">Product category(*):  </label>
 							<div class="col-sm-10">
