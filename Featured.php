@@ -37,7 +37,7 @@
                 
                     <div class="featured__item">
                         <div class="featured__item__pic set-bg">
-                        <img src="ATNtoy/<?php echo $row['pro_image'] ?>" alt="" width="262.5" height="270">
+                        <img src="ATNtoy/<?php echo $row['pro_image'] ?>" alt="" width="262.5px" height="270px">
                             <ul class="featured__item__pic__hover">
                     
                                 <li><a href="#"><span class="fa fa-heart"></span></a></li>
