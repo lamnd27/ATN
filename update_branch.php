@@ -46,7 +46,12 @@
 								  value='<?php echo $row['branch_name'] ?>'>
 							</div>
 					</div>
-                    
+				 <div class="form-group">
+						    <label for="txtTen" class="col-sm-2 control-label">Address(*):  </label>
+							<div class="col-sm-10">
+							      <input type="text" name="txtAddress" id="txtAddress" class="form-control" placeholder="Address" value='<?php echo isset($_POST["txtAddress"])?($_POST["txtAddress"]):"";?>'>
+							</div>
+					</div>    
                     
 					<div class="form-group">
 						<div class="col-sm-offset-2 col-sm-10">
@@ -63,6 +68,7 @@
 		{
 			$id = $_POST['txtID'];
 			$name = $_POST['txtName'];
+			$address = $_POST['txtAddress'];
 			$err="";
 			if($name=="")
 			{

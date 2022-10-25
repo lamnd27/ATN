@@ -24,6 +24,7 @@
 		{
 			$id = $_POST['txtID'];
 			$name = $_POST['txtName'];
+			$address = $_POST['txtAddress'];
 			$err = "";
 			if($id=="")
 			{
